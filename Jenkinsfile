@@ -23,7 +23,7 @@ pipeline {
             steps {
                 script {
                     // Let's clone the source
-                    git 'https://github.com/vinay-cell/vprofile-repo.git';
+                    git 'https://github.com/vinay-cell/spring3-mvc-maven-xml-hello-world.git';
                 }
             }
         }
